@@ -1,4 +1,4 @@
 <?php
 
 include "vendor\autoload.php";
-core\BootStrap::run();
+core\Base::run();
